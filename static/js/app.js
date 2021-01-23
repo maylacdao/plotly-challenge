@@ -33,9 +33,20 @@ function buildCharts(sample) {
         y:ids.slice(0, 10).map(otuID => `OTU ${otuID}`).reverse(),
         x:values.slice(0,10).reverse(),
         text:labels.slice(0,10).reverse(),
+        font: {
+          family: "Oswald",
+          size: 14,
+          color:'rgb(248, 248, 255)'
+        },
         type:"bar",
-        orientation:"h"
-      }
+        orientation:"h",
+        marker: {
+          color: 'rgb(240, 141, 181)',
+          line: {color:'rgba(58, 71, 80, 1.0)',
+              width:1
+            }
+          }
+        }
     ];
 
     var barLayout = {
