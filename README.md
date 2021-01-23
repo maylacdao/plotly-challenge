@@ -8,9 +8,11 @@ Create an interactive dashboard to explore the [Belly Button Biodiversity datase
 
 Plotly, JavaScript, HTML
 
+## SUMMARY
+
 ## DEPLOYMENT
 
-The dashboard can be viewed from [here]().
+The dashboard can be viewed from [here](https://maylacdao.github.io/plotly-challenge/).
 
 ### About the Data
 
