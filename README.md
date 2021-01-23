@@ -6,9 +6,19 @@ Create an interactive dashboard to explore the [Belly Button Biodiversity datase
 
 ## TOOLS:
 
-Plotly, JavaScript, HTML
+Plotly, JavaScript, HTML, CSS
 
 ## SUMMARY
+
+Using the d3 library, data (in json format) was loaded and previewed.
+
+Using JavaScript, various functions were created, namely, to:
+(1) build and display the metadata;
+(2) generate the bar graph and bubble chart;
+(3) handle an event wherein a viewer would like to view a new sample; and
+(4) initialize the dashboard.
+
+To format the page and the contents, Plotly, HTML and CSS were utilized.
 
 ## DEPLOYMENT
 
