@@ -1,0 +1,17 @@
+body {
+  background-image: linear-gradient(to top, #ebbba7 0%, #cfc7f8 100%);
+}
+
+.container {
+  padding-top: 15px;
+}
+
+.jumbotron {
+  background-image: url(https://www.cedars-sinai.org/content/dam/cedars-sinai/blog/2020/06/viruses-bacteria-fungi.jpg);
+  background-size: cover;
+}
+
+span.navbar-brand.mb-0.h1 {
+  text-align: center;
+  color: #ffff;
+}
