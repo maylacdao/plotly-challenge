@@ -71,7 +71,8 @@ function buildCharts(sample) {
     ];
 
     var bubbleLayout = {
-      margin: { t: 0 },
+      title: "Microbial Population per Individual",
+      margin: { t: 50 },
       xaxis: { 
         title: "OTU ID",
         gridcolor: 'white',
