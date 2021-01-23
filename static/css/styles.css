@@ -1,6 +1,6 @@
 body {
   background-image: linear-gradient(to top, #ebbba7 0%, #cfc7f8 100%);
-  font-family: "Work Sans", sans-serif;
+  font-family: "Cardo", serif;
   font-weight: 300;
 }
 
@@ -10,10 +10,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 900;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
 }
-
 .container {
   padding-top: 15px;
 }
@@ -29,5 +28,14 @@ span.navbar-brand.mb-0.h1 {
 }
 
 p {
-  font-size: 18px;
+  font-size: 30px;
+  text-align: center;
+}
+
+h5 {
+  font-size: 15px;
+}
+
+.panel-body {
+  font-size: 25px;
 }
