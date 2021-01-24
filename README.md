@@ -20,9 +20,15 @@ Using JavaScript, various functions were created, namely, to:
 
 To format the page and the contents, Plotly, HTML and CSS were utilized.
 
-## DEPLOYMENT
+## DASHBOARD DEPLOYMENT
 
 The dashboard can be viewed from [here](https://maylacdao.github.io/plotly-challenge/).
+
+## NAVIGATING THE DASHBOARD
+
+The landing page shows the data for the first entry in the dataset.
+
+To view the data from other test subjects, use the drop-down menu, select your desired test subject ID number and the graphs will adjust accordingly.
 
 ### About the Data
 
