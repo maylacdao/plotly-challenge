@@ -22,7 +22,7 @@ To format the page and the contents, Plotly, HTML and CSS were utilized.
 
 ## DASHBOARD DEPLOYMENT
 
-The dashboard can be viewed from [here](https://maylacdao.github.io/plotly-challenge/).
+The dashboard can be viewed from [here](https://maylacdao.github.io/plotly-research-data-visualization/).
 
 ![alt text](images/chart_1_metadata.png)
 
