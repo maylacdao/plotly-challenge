@@ -24,6 +24,10 @@ To format the page and the contents, Plotly, HTML and CSS were utilized.
 
 The dashboard can be viewed from [here](https://maylacdao.github.io/plotly-challenge/).
 
+![alt text](images/chart_1_metadata.png)
+
+![alt text](images/chart_2.png)
+
 ## NAVIGATING THE DASHBOARD
 
 The landing page shows the data for the first entry in the dataset.
